@@ -90,32 +90,12 @@ li:hover {
     transform: scale(1.05);
   }
 
-.item1{
-  height: auto;
-  width: auto;
-}
-.item2{
-  height: auto;
-  width: auto;
-}
-.item3{
-  height: auto;
-  width: auto;
-}
-.item4{
-  height: auto;
-  width: auto;
-}
-.item5{
-  height: auto;
-  width: auto;
-}
 .Carrossel {
   background-color: black;
 }
 
 .Carrossel .splide__slide {
-  width: 100%; /* Garante que apenas um filme seja visível por vez */
+  width: 100%; 
 }
 
 .Carrossel .splide__slide img {
